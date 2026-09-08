@@ -1,0 +1,9 @@
+torch>=2.0
+numpy
+pandas
+scikit-learn
+matplotlib
+# optional, only needed for the tushare backend:
+tushare
+# optional, only needed if your hf_minute files are .parquet:
+pyarrow
